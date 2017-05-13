@@ -37,9 +37,8 @@ bspc monitor --add-desktops 2
 bspc monitor --add-desktops 3
 bspc monitor --add-desktops 4
 
-bspc rule -a Screenkey manage=off
-bspc rule -a Conky sticky=on manage=off lower=on
-bspc rule -a feh floating=on manage=off lower=on
+bspc rule -a higan manage=off floating=on
+bspc rule -a znes fullscreen=on
 bspc rule -a oblogout floating=on fullscreen=on
 bspc rule -a tint2 floating=on manage=off
 bspc rule -a Wicd-client.py floating=on
