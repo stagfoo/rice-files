@@ -1,0 +1,110 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "javascript.validate.enable": false,
+    "window.zoomLevel": 1,
+    "editor.fontSize": 17,
+    "git.enabled": true,
+    "git.autofetch": false,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "explorer.openEditors.visible": 0,
+    "editor.quickSuggestions": true,
+    "editor.autoClosingBrackets": true,
+    "editor.renderWhitespace": "none",
+    "editor.renderIndentGuides": false,
+    "guides.indent.backgrounds": [],
+    // Hide indentation background in selections.
+    "guides.indent.hideBackgroundOnSelection": true,
+
+    // Show start-of-line indentation guides.
+    "guides.indent.showFirstIndentGuides": false,
+
+    // Normal indentation guides rendering width.
+    "guides.normal.width": 2,
+
+    // Normal indentation guides rendering color for dark themes.
+    "guides.normal.color.dark": "#51366c",
+
+    // Normal indentation guides rendering color for light themes.
+    "guides.normal.color.light": "rgba(220, 220, 220, 0.75)",
+
+    // Normal indentation guides rendering style.
+    "guides.normal.style": "solid",
+
+    // Hide normal indentation guides in selections.
+    "guides.normal.hideOnSelection": false,
+
+    // Enable active indentation guides in addition to normal indentation guides.
+    "guides.active.enabled": true,
+
+    // Active indentation guides rendering width.
+    "guides.active.width": 2,
+
+    // Active indentation guides rendering color for dark themes.
+    "guides.active.color.dark": "#10EFDC",
+
+    // Active indentation guides rendering color for light themes.
+    "guides.active.color.light": "#10EFDC",
+
+    // Active indentation guides rendering style.
+    "guides.active.style": "solid",
+
+    // Hide active indentation guides in selections.
+    "guides.active.hideOnSelection": true,
+
+    // Enable stack indentation guides in addition to normal indentation guides.
+    "guides.stack.enabled": true,
+
+    // Stack indentation guides rendering width.
+    "guides.stack.width": 2,
+
+    // Stack indentation guides rendering color for dark themes.
+    "guides.stack.color.dark": "#402B56",
+
+    // Stack indentation guides rendering color for light themes.
+    "guides.stack.color.light": "#402B56",
+
+    // Stack indentation guides rendering style.
+    "guides.stack.style": "solid",
+
+    // Hide stack indentation guides in selections.
+    "guides.stack.hideOnSelection": true,
+
+    // Time duration between each guide lines update (in seconds).
+    "guides.updateDelay": 0.1,
+
+    // Override default Visual Studio Code behaviours (such as indentation guides or rulers).
+    //   Set to "true" to suppress any suggestion towards default Visual Studio Code behaviours.
+    "guides.overrideDefault": false,
+
+    // Send anonymous usage statistics data to the developer.
+    "guides.sendUsagesAndStats": true,
+    "files.trimTrailingWhitespace": true,
+    "cSpell.ignorePaths": [
+        "**/node_modules/**",
+        "**/vscode-extension/**",
+        "**/.git/**",
+        ".vscode",
+        "typings"
+    ],
+    "editor.trimAutoWhitespace": false,
+    "debug.allowBreakpointsEverywhere": false,
+    "workbench.colorTheme": "Meteor",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#522d77",
+        "statusBar.foreground": "#fff",
+        "sideBar.background": "#22172d",
+        "editorGroupHeader.tabsBackground": "#22172d",
+        "tab.inactiveBackground": "#22172d",
+        "activityBar.background": "#38254a",
+        "activityBar.foreground": "#F92672",
+        "activityBarBadge.background": "#10EFDC",
+        "activityBarBadge.foreground": "#38254a",
+        "input.background": "#22172d"
+    },
+    "workbench.iconTheme": "ayu",
+    "workbench.welcome.enabled": false
+}
