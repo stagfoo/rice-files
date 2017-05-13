@@ -6,15 +6,16 @@
 - **Desktop**: XFCE (xubuntu)
 - **Window Manager**: bspwm
 - **Compose**: Compton
-- **Theme**: Arc2
+- **Theme**: Arc2-dark
 - **Panel**: Tint2
+- **Icons**: Papirus-dark
 - **Terminal**: XFCE Terminal
 - **Code Editor**: VS Code
 - **Font**: [Fira Code](https://github.com/tonsky/FiraCode)
 
 ## VS Code
 the settings are included in vssettings.json you will need to copy and paste what you want into your settings
-- I am using the guide plugin for colored guides
+- I am using the [Guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides#review-details) plugin and include custom coloring
 - the folder theme is Ayu
 
 ## Terminal
